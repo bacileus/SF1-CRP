@@ -1,0 +1,17 @@
+minver=126
+[Weapon]
+#Quickstrike
+ShatteredSpace.esm~0B577F|rpl_dmgt(Starfield.esm~00060A81:50,Starfield.esm~00060A81:37)
+#Longfang
+ShatteredSpace.esm~0F8F7F|rpl_dmgt(Starfield.esm~00060A81:40,Starfield.esm~00060A81:30)
+#Starslash
+ShatteredSpace.esm~0FFC55|rpl_dmgt(Starfield.esm~00060A81:96,Starfield.esm~00060A81:72)
+[ObjectModification]
+#Quickstrike
+ShatteredSpace.esm~0FD5B6|incl_rpl(Starfield.esm~1341F4:0:0:1,rbt_BalancedBallistics.esm~013866:0:0:1)
+#Longfang
+#Weapon does not have auto mode, so no changes are needed here
+#Starslash
+ShatteredSpace.esm~0FFC8B|incl_rpl(Starfield.esm~1341F4:0:0:1,rbt_BalancedBallistics.esm~013866:0:0:1)
+ShatteredSpace.esm~0FFC8B|incl_add(rbt_BalancedBallistics.esm~80B:0:0:1)
+ShatteredSpace.esm~0FFC8C|incl_add(rbt_BalancedBallistics.esm~80B:0:0:1)
