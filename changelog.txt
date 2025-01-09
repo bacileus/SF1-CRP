@@ -1,4 +1,7 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v0.2
+- [001CBD6A]: Patched Jemison Clear Water & Reduced Gas Vents.
+- [002AC953]: Reverted edit as it is no longer necessary.
 ## v0.1
 - [00147E38, 002AC953, 002CE2DF, 002CE2E2]: Removed description changes from TN's Aid and Ammo Crafting.
 - [0112F254]: Adjusted the damage mult. full-auto receiver of the Va'ruun Starlash.
