@@ -1,0 +1,198 @@
+{
+    "AdditionalSliders": {
+        "24": 0.4999999701976776,
+        "25": -0.20000000298023224,
+        "27": 0.6000000238418579,
+        "31": -0.49999991059303284,
+        "32": 0.6999999284744263,
+        "35": -1.0,
+        "36": 1.0,
+        "37": -0.20000003278255463,
+        "39": -0.4999999701976776,
+        "53": 0.5,
+        "58": -0.5,
+        "60": 1.0,
+        "63": 0.29999998211860657,
+        "64": -0.20000004768371582,
+        "65": -0.20000001788139343,
+        "67": -1.0,
+        "68": 0.4999999701976776,
+        "69": -1.0,
+        "70": 0.10000001639127731,
+        "71": -0.7999999523162842,
+        "73": 0.49999991059303284,
+        "74": 0.5,
+        "75": 0.5,
+        "76": 0.4000000059604645,
+        "77": 0.1000000461935997,
+        "78": 0.20000000298023224,
+        "79": -0.3999999761581421,
+        "80": 0.6000000238418579,
+        "83": 0.20000004768371582,
+        "84": 1.0,
+        "85": -0.20000001788139343,
+        "86": -0.20000000298023224,
+        "87": -0.30000001192092896,
+        "88": 0.10000000149011612,
+        "89": -0.10000000149011612
+    },
+    "Dependencies": [
+        "Starfield.esm"
+    ],
+    "EyeColor": "BrownDark",
+    "EyebrowColor": "BlackBrown",
+    "FacialHairColor": "BlackBrown",
+    "Gender": "Male",
+    "HairColor": "BlackBrown",
+    "HeadPartData": [
+        {
+            "Color": {
+                "a": 0,
+                "b": 0,
+                "g": 0,
+                "r": 0
+            },
+            "Group": "Dermaesthetic",
+            "Intensity": 0.2421875,
+            "Name": "European_Male_yo1_Sk3",
+            "Texture": "textures/actors/human/faces/chargen/postblenddetails/dermaesthetic/male_eu_yo1_sk3_derm_color.dds",
+            "Type": 1,
+            "unk04": 655
+        },
+        {
+            "Color": {
+                "a": 0,
+                "b": 0,
+                "g": 0,
+                "r": 0
+            },
+            "Group": "Complexion1",
+            "Intensity": 0.1484375,
+            "Name": "Color_Temperature_Pink",
+            "Texture": "textures/actors/human/faces/chargen/postblenddetails/complexion/complexion_colortemperature_pink_color.dds",
+            "Type": 1,
+            "unk04": 1065353216
+        },
+        {
+            "Color": {
+                "a": 255,
+                "b": 61,
+                "g": 48,
+                "r": 63
+            },
+            "Group": "ComplexionMask2",
+            "Intensity": 0.296875,
+            "Name": "UnderEyeBags",
+            "Texture": "textures/actors/human/faces/chargen/postblenddetails/complexion/undereyebags_mask.dds",
+            "Type": 1,
+            "unk04": 1045471549
+        },
+        {
+            "Color": {
+                "a": 0,
+                "b": 0,
+                "g": 0,
+                "r": 0
+            },
+            "Group": "Scars",
+            "Intensity": 0.296875,
+            "Name": "Scar_EyeRightRagged",
+            "Texture": "textures/actors/human/faces/chargen/postblenddetails/scars/scar_eyerightragged_color.dds",
+            "Type": 2,
+            "unk04": 0
+        },
+        {
+            "Color": {
+                "a": 0,
+                "b": 0,
+                "g": 0,
+                "r": 0
+            },
+            "Group": "ColorlessAccents1",
+            "Intensity": 0.296875,
+            "Name": "Accents_NasoLabialFolds",
+            "Texture": "textures/actors/human/faces/chargen/postblenddetails/accents/accents_nasolabialfolds_color.dds",
+            "Type": 2,
+            "unk04": 1065353912
+        },
+        {
+            "Color": {
+                "a": 0,
+                "b": 0,
+                "g": 0,
+                "r": 0
+            },
+            "Group": "ColorlessAccents2",
+            "Intensity": 0.5,
+            "Name": "Accents_Moles_BaldHeadNeck",
+            "Texture": "textures/actors/human/faces/chargen/postblenddetails/accents/accents_moles_baldheadneck_color.dds",
+            "Type": 2,
+            "unk04": 1065353216
+        },
+        {
+            "Color": {
+                "a": 255,
+                "b": 47,
+                "g": 56,
+                "r": 188
+            },
+            "Group": "Cheeks2",
+            "Intensity": 0.1953125,
+            "Name": "Blush_Soft_Small",
+            "Texture": "textures/actors/human/faces/chargen/postblenddetails/cheeks2/testblush02_mask.dds",
+            "Type": 1,
+            "unk04": 655
+        }
+    ],
+    "HeadParts": [
+        "Starfield.esm|3A681E",
+        "Starfield.esm|193431",
+        "Starfield.esm|14AFE0",
+        "Starfield.esm|62F07",
+        "Starfield.esm|24A03D",
+        "Starfield.esm|3BE58D",
+        "Starfield.esm|24A023",
+        "Starfield.esm|24A022",
+        "Starfield.esm|64D88",
+        "Starfield.esm|253FA3",
+        "Starfield.esm|253FA5"
+    ],
+    "JewelryColor": "",
+    "Morphs": {
+        "12": {
+            "Cheeks": 1.0
+        },
+        "16": {
+            "Eyes": 0.7400000095367432,
+            "Mouth": 1.0,
+            "Nose": 0.6800000071525574
+        }
+    },
+    "Name": "Player",
+    "Pronoun": 1,
+    "Race": "Starfield.esm|347D",
+    "ShapeBlendData": {
+        "male_af_md1_Chin": 0.25,
+        "male_af_yo1_Cheeks": 1.0,
+        "male_as_md1_Chin": 0.30000001192092896,
+        "male_as_md1_Eyes": 0.30000001192092896,
+        "male_as_md1_Neck": 0.8000001311302185,
+        "male_as_yo1_Eyes": 0.30000001192092896,
+        "male_eu_md2_Forehead": 0.550000011920929,
+        "male_eu_md2_Jaw": 1.0,
+        "male_eu_md2_Mouth": 0.5,
+        "male_eu_yo1_Chin": 0.45000001788139343,
+        "male_eu_yo1_Eyes": 0.20000000298023224,
+        "male_eu_yo1_Mouth": 0.30000001192092896,
+        "male_eu_yo1_Nose": 1.0
+    },
+    "SkinTone": 0,
+    "Teeth": "Teeth_Dirty",
+    "Version": 2,
+    "Weight": {
+        "Heavy": 0.0,
+        "Muscular": 0.30602237582206726,
+        "Thin": 0.17821133136749268
+    },
+    "unk470": ""
+}
