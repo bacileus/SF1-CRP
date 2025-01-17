@@ -1,4 +1,6 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v1.2
+- [022EC7C]: Edited Cyberneticist background, changing Medicine perk by Targetting Control Systems.
 ## v1.1
 - Added CharGenMenu preset.
 ## v1.0
