@@ -1,4 +1,7 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v1.5
+- [022EC7C]: Removed edits.
+- [002DFD1A]: Replaced Wellness by Security skill.
 ## v1.4
 - [022EC7C]: Edited Cyberneticist background description.
 ## v1.3
