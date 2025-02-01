@@ -1,4 +1,6 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v1.6
+- [00147E38, 002CE2DF, 002CE2E2]: Removed edits.
 ## v1.5
 - [022EC7C]: Removed edits.
 - [002DFD1A]: Replaced Wellness by Security skill.
