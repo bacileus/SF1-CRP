@@ -1,4 +1,7 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v1.9
+- [000191F1]: Updated Balanced Ballistics to 1.0.
+- Commented "ObjectModification" changes in BalancedLasers Shattered Space RFTP patch.
 ## v1.8
 - [000191F1]: Forwarded Weapon Mod Fixes template changes.
 ## v1.7
