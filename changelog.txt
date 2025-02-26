@@ -1,4 +1,6 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v1.8
+- [000191F1]: Forwarded Weapon Mod Fixes template changes.
 ## v1.7
 - [00249C49]: Forwarded SFCP changes.
 ## v1.6
