@@ -1,4 +1,7 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v2.0
+- [0112F254, 000191F1]: Reverted Balanced Ballistics edits.
+- Removed custom Balanced Ballistics RFTP Patch.
 ## v1.9
 - [000191F1]: Updated Balanced Ballistics to 1.0.
 - Commented "ObjectModification" changes in BalancedLasers Shattered Space RFTP patch.
@@ -27,3 +30,4 @@
 ## v0.1
 - [00147E38, 002AC953, 002CE2DF, 002CE2E2]: Removed description changes from TN's Aid and Ammo Crafting.
 - [0112F254]: Adjusted the damage mult. full-auto receiver of the Va'ruun Starlash.
+- Added RFTP patch to adapt Shattered Space weapons to Balanced Ballistics values.
