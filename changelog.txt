@@ -1,4 +1,7 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v2.2
+- [002AF54A]: Fixed conflicts between Upgraded Companions & Shut Up Cora.
+- [002E892A, 002BAAE1]: Fixed conflicts between Companions Conversations Fix & Shut Up Cora.
 ## v2.1
 - [0027F1A0, 000F4ED4]: Forwarded SFBGS008 Akila traveral changes.
 - [002CA717]: Changed incorrect map marker type.
