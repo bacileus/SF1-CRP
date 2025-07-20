@@ -1,4 +1,6 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v2.3
+- [002AF54A, 00155D13, 00169E69, 002C8674]: Fixed wrong condition data.
 ## v2.2
 - [002AF54A]: Fixed conflicts between Upgraded Companions & Shut Up Cora.
 - [002E892A, 002BAAE1]: Fixed conflicts between Companions Conversations Fix & Shut Up Cora.
