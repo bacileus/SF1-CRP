@@ -1,4 +1,6 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v2.5
+- [0004A181, 000F4ED4, 00117A0B, 0011FC1D, 001FE65F, 002641E3, 002A07D2, 002C7F42, 002C8678]: Patched conflicts introducted by Gravity is Real.
 ## v2.4
 - [002C5556]: Fixed typo.
 ## v2.3
