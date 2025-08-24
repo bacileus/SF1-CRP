@@ -1,4 +1,6 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v2.8
+- [0024C4E0]: Fixed text typo.
 ## v2.7
 - Fixed cropped starfield_landscape_067_color.dds loadscreen.
 ## v2.6
