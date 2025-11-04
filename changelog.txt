@@ -1,4 +1,6 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v2.11
+- Updated CharGenMenu preset.
 ## v2.10
 - [00090A46]: Fixed text typo.
 ## v2.9

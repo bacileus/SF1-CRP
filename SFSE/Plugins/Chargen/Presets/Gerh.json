@@ -145,9 +145,9 @@
         }
     ],
     "HeadParts": [
+        "Starfield.esm|14AFE0",
         "Starfield.esm|3A681E",
         "Starfield.esm|193431",
-        "Starfield.esm|14AFE0",
         "Starfield.esm|62F07",
         "Starfield.esm|24A03D",
         "Starfield.esm|3BE58D",
@@ -177,6 +177,7 @@
         "male_as_md1_Chin": 0.30000001192092896,
         "male_as_md1_Eyes": 0.30000001192092896,
         "male_as_md1_Neck": 0.8000001311302185,
+        "male_as_ol1_Mouth": 0.05000000074505806,
         "male_as_yo1_Eyes": 0.30000001192092896,
         "male_eu_md2_Forehead": 0.550000011920929,
         "male_eu_md2_Jaw": 1.0,
