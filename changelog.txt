@@ -1,4 +1,7 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v2.12
+- [000131C6]: Fixed text typo.
+- [00003448, 000A47F2]: Forwarded changes from Clothing and Spacesuit Fixes & USFP respectively.
 ## v2.11
 - Updated CharGenMenu preset.
 ## v2.10
