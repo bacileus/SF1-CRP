@@ -1,4 +1,6 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v2.13
+- [0024C4BA]: Fixed text typo.
 ## v2.12
 - [000131C6]: Fixed text typo.
 - [00003448, 000A47F2]: Forwarded changes from Clothing and Spacesuit Fixes & USFP respectively.
