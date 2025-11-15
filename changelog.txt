@@ -1,4 +1,6 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v2.14
+- [2A00041E, 2A000431, 2A00046F, 2A000473, 2A000486]: Fixed text typo.
 ## v2.13
 - [0024C4BA]: Fixed text typo.
 ## v2.12
