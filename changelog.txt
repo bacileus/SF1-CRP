@@ -1,4 +1,6 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v2.16
+- [0024EF9C]: Merged SFCP changes with USFP.
 ## v2.15
 - [2A000435, 2A000437, 2A000459, 2A00045A, 2A00047C]: Fixed text typo.
 ## v2.14
