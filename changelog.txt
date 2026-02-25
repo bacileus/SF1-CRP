@@ -1,4 +1,6 @@
 # SF1 CONFLICT RESOLUTION PATCH
+## v2.17
+- [0006A716]: Forwarded Gravity is Real changes.
 ## v2.16
 - [0024EF9C]: Merged SFCP changes with USFP.
 ## v2.15
